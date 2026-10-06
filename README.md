@@ -1,6 +1,6 @@
-# 🎓 Student Performance Predictor
+# Student Performance Predictor
 
-A machine learning web application that predicts whether a student is likely to Pass or Fail based on academic performance.
+A small ML web Application that predicts a student is pass or fail based on academic performance.
 
 ## Features
 
@@ -10,18 +10,18 @@ A machine learning web application that predicts whether a student is likely to 
 - Assignment Score
 - KNN Classification
 - PASS/FAIL prediction
-- Prediction probability
+- Prediction probability 
 - Interactive Streamlit interface
 
 ## Technologies Used
 
 - Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Streamlit
-- Joblib
+- Pandas:- working with tables and datasets.
+- NumPy: - working with numerical calculations and arrays.
+- Scikit-learn: - machine learning library for KNN, train-test split.
+- Matplotlib: - working for graphs and visualizations.
+- Streamlit: - framework for web application on python based.
+- Joblib: - for parallel computing, and serialization.
 
 ## Machine Learning
 
