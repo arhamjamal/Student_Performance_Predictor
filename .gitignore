@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+knn_student.py
+KNN.py
